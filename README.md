@@ -15,17 +15,3 @@ Landing page simples em HTML e CSS para a Silcon Consórcios.
    - Branch: `main`
    - Folder: `/root`
 5. Salve e aguarde o link ficar disponível.
-
-## Ajuste obrigatório
-
-No arquivo `index.html`, troque todos os links abaixo pelo WhatsApp correto:
-
-```html
-https://wa.me/5500000000000
-```
-
-Use o formato com DDI + DDD + número. Exemplo:
-
-```html
-https://wa.me/5527999999999
-```
